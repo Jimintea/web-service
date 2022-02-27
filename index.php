@@ -57,8 +57,8 @@ $(document).ready(function() {
     $("#team").html("")
 
     //load each film via template into div
-    $.each(data.films,function(key,value){
-      let str = bondTemplate(value);
+    $.each(data.team,function(key,value){
+      let str = soccerTemplate(value);
       $("<div></div>").html(str).appendTo("#team");
     });
     
