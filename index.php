@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Bond Web Service Demo</title>
+<title>Soccer Teams Alphabetical</title>
 <style>
 body {font-family:georgia;}
 
@@ -24,19 +24,14 @@ body {font-family:georgia;}
 
 <script type="text/javascript">
 
-function bondTemplate(film){
-  return `<div class="film">
-  <b>Film: </b> ${film.Film}<br />
-  <b>Title: </b> ${film.Title}<br />
-  <b>Year: </b> ${film.Year}<br />
-  <b>Director: </b> ${film.Director}<br />
-  <b>Producers: </b> ${film.Producers}<br />
-  <b>Writers: </b> ${film.Writers}<br />
-  <b>Composer: </b> ${film.Composer}<br />
-  <b>Bond: </b> ${film.Bond}<br />
-  <b>Budget: </b> ${film.Budget}<br />
-  <b>BoxOffice: </b> ${film.BoxOffice}<br />
-  <div class="pic"><img src="thumbnails/${film.Image}" /></div>
+function bondTemplate(team){
+  return `<div class="team">
+  <b>Location: </b> ${team.Location}<br />
+  <b>Team: </b> ${team.Team}<br />
+  <b>Arena: </b> ${team.Arena}<br />
+  <b>Founded: </b> ${team.Founded}<br />
+  <b>Founder: </b> ${team.Founder}<br />
+  <div class="pic"><img src="thumbnails/${team.Image}" /></div>
 </div>`;
 }
 
