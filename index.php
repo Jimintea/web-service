@@ -51,15 +51,15 @@ $(document).ready(function() {
     console.log(data);
 
     //Place the title of the webservice on page
-    $("#filmtitle").html(data.title);
+    $("#teamtitle").html(data.title);
 
     //clear previous films
-    $("#teams").html("")
+    $("#team").html("")
 
     //load each film via template into div
     $.each(data.films,function(key,value){
       let str = bondTemplate(value);
-      $("<div></div>").html(str).appendTo("#teams");
+      $("<div></div>").html(str).appendTo("#team");
     });
     
     //load data on page so we can see it
@@ -86,7 +86,7 @@ $(document).ready(function() {
 	<h1>Soccer Teams Alphabetical</h1>
 		<a href="team" class="category">Soccer Teams Alphabetical</a><br />
 		<h3 id="teamtitle">Name Will Go Here</h3>
-		<div id="teams">
+		<div id="team">
 			<p>Teams will go here</p>
 		</div>
     
