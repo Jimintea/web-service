@@ -12,81 +12,81 @@
 			  },
     
 			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
         
  			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
     
 			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
           
 			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
     
 			  {
-				"Location":Spain,
+				"Location":"Spain|"",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
     
 			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
     
 			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
     
 			  {
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
 			  },
     
     		{
-				"Location":Spain,
+				"Location":"Spain",
 				"Team":"Barcelona",
-				"Arena":Camp Nou,
+				"Arena":"Camp Nou",
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
