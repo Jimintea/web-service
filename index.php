@@ -83,12 +83,11 @@ $(document).ready(function() {
 </script>
 </head>
 	<body>
-	<h1>Bond Web Service</h1>
-		<a href="year" class="category">Bond Films By Year</a><br />
-		<a href="box" class="category">Bond Films By International Box Office Totals</a>
+	<h1>Soccer Teams Alphabetical</h1>
+		<a href="year" class="category">Soccer Teams Alphabetical</a><br />
 		<h3 id="filmtitle">Title Will Go Here</h3>
 		<div id="films">
-			<p>Films will go here</p>
+			<p>Teams will go here</p>
 		</div>
     
 <!--
