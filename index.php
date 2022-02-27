@@ -24,7 +24,7 @@ body {font-family:georgia;}
 
 <script type="text/javascript">
 
-function bondTemplate(team){
+function soccerTemplate(team){
   return `<div class="team">
   <b>Location: </b> ${team.Location}<br />
   <b>Team: </b> ${team.Team}<br />

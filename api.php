@@ -29,7 +29,7 @@ if(isset($_REQUEST['cat']))
 	switch($_REQUEST['cat'])
 	{//determine contents of 'cat'
 		case "box":
-			include('data/bond-box-office.js'); //"box" orders by box office results
+			include('data/soccer-team.js'); //"box" orders by box office results
 			break;
 		default:
 			include('data/bond-year.js'); //default orders by year
