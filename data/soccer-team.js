@@ -9,8 +9,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },    
 			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -18,8 +17,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-        
+			  },       
  			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -27,8 +25,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },   
 			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -36,8 +33,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-          
+			  },         
 			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -45,8 +41,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },    
 			  {
 				"Location":"Spain|"",
 				"Team":"Barcelona",
@@ -54,8 +49,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },   
 			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -63,8 +57,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },    
 			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -72,8 +65,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },    
 			  {
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -81,8 +73,7 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-    
+			  },   
     		{
 				"Location":"Spain",
 				"Team":"Barcelona",
@@ -90,7 +81,6 @@
 				"Founded":" 1899",
 				"Founder":"Joan Gamper",
 				"Image":"barcelona.jpg"
-			  },
-
+			  }
 			]
 }
