@@ -4,7 +4,7 @@
 <style>
 body {font-family:georgia;}
 
-  .film{
+  .team{
     border:1px solid #E77DC2;
     border-radius: 5px;
     padding: 5px;
