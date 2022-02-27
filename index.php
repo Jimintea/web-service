@@ -54,12 +54,12 @@ $(document).ready(function() {
     $("#filmtitle").html(data.title);
 
     //clear previous films
-    $("#films").html("")
+    $("#teams").html("")
 
     //load each film via template into div
     $.each(data.films,function(key,value){
       let str = bondTemplate(value);
-      $("<div></div>").html(str).appendTo("#films");
+      $("<div></div>").html(str).appendTo("#teams");
     });
     
     //load data on page so we can see it
@@ -84,9 +84,9 @@ $(document).ready(function() {
 </head>
 	<body>
 	<h1>Soccer Teams Alphabetical</h1>
-		<a href="year" class="category">Soccer Teams Alphabetical</a><br />
-		<h3 id="filmtitle">Title Will Go Here</h3>
-		<div id="films">
+		<a href="team" class="category">Soccer Teams Alphabetical</a><br />
+		<h3 id="teamtitle">Name Will Go Here</h3>
+		<div id="teams">
 			<p>Teams will go here</p>
 		</div>
     
